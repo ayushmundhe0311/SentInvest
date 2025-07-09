@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+keras
+tensorflow
+joblib
+requests
+googlesearch-python
+newspaper3k
+textwrap3
+python-dotenv
